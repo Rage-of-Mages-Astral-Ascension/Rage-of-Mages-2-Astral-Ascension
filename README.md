@@ -5,9 +5,9 @@ A mod for Rage of Mages 2 GOG edition
 All the modifications were done, by using help from AI, so use these modifications at your own risk. If you want more clarification about anything in this repo, you should probably ask an LLM to explain it.
 
 ### Table of contents ###
-1. Increased Stat and Skill limits 
-2. A workaround for playing TCP/IP multiplayer in Virtual Networks (like Hamachi/Radmin)
-3. More detailed look at the .exe modifications
+1. [Increased Stat and Skill limits](https://github.com/Rage-of-Mages-Astral-Ascension/Rage-of-Mages-2-Astral-Ascension/tree/main#1-increased-statskill-limits)
+2. [A workaround for playing TCP/IP multiplayer in Virtual Networks (like Hamachi/Radmin)](https://github.com/Rage-of-Mages-Astral-Ascension/Rage-of-Mages-2-Astral-Ascension/tree/main#2-tcpip-multiplayer-workaround)
+3. [More detailed look at the .exe modifications](https://github.com/Rage-of-Mages-Astral-Ascension/Rage-of-Mages-2-Astral-Ascension/tree/main#3-detailed-info-about-the-exe-hex-edit)
 
 ## 1. Increased Stat/Skill Limits ##
 The files include a modified allods2.exe (GOG version) that includes:
