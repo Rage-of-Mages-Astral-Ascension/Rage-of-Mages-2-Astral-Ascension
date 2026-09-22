@@ -22,9 +22,13 @@ Included in the dpfix folder is a script (install1.ps) that renames your origina
 - You may need to rerun this script before any network play sessions as patched dll's may reset in the meantime.
 
 Run the Powershell script using this command:
+```
 powershell -ExecutionPolicy Bypass -File .\install.ps1 -GameDir "<full path to your RoM2 folder>"
+```
 For example if you installed RoM in "C:\Rage of Mages II", this should be your script:
+```
 powershell -ExecutionPolicy Bypass -File .\install.ps1 -GameDir "C:\Rage of Mages II"
+```
 Before installing you should fill in dpfix.ini:
 - **From** - Public IP of the host
 - **To** - the Virtual (Hamachi/Radmin) IP of the host
